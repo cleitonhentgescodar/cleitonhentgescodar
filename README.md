@@ -1,7 +1,7 @@
 <h1 align="center">👋 Bem-vindo ao meu GitHub</h1>
 
 <p align="center">
-Cientista e Analista de Dados | Python • SQL • Machine Learning • Power BI
+Cientista de Dados | Analista de Dados & BI | Machine Learning | Estatística Aplicada |
 </p>
 
 ---
