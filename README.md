@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bem-vindo ao meu GitHub</h1>
+<h1 align="center"> Bem-vindo ao meu GitHub</h1>
 
 <p align="center">
 Cientista de Dados | Analista de Dados & BI | Machine Learning | Estatística Aplicada |
