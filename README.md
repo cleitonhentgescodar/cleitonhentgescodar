@@ -1,42 +1,80 @@
-<p align="center">#BEM-VINDO AO MEU GIT HUB!</p>
+<h1 align="center">👋 Bem-vindo ao meu GitHub</h1>
 
-###
+<p align="center">
+Cientista e Analista de Dados | Python • SQL • Machine Learning • Power BI
+</p>
 
-<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
+---
 
-###
+## 👨‍💻 Sobre mim
 
-<p align="left">Ciência de Dados – EBAC (2024 – 2026)<br>Cientista de Dados | Análise Estatística | Machine Learning | Data Visualization | Python • SQL • Power BI</p>
+Sou **Cientista e Analista de Dados**, apaixonado por transformar dados em insights estratégicos e soluções orientadas por dados.
 
-###
+🎓 Formação em **Ciência de Dados – EBAC (2024 – 2026)**  
+📊 Foco em **Análise de Dados, Machine Learning e Visualização de Dados**  
+🚀 Buscando constantemente evoluir em **Data Science e Analytics**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cleitonhentgescodar&locale=pt-br&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cleitonhentgescodar&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
+---
 
-###
+## 🚀 Tecnologias e Ferramentas
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/cleiton-hentges-a31218397/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="51996187765" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="cleitonhentgescodar@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+
 </div>
 
-###
+**Principais ferramentas**
+
+- Python
+- SQL / MySQL
+- Pandas
+- Jupyter Notebook
+- Power BI
+- Machine Learning
+- Análise Estatística
+- Data Visualization
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=cleitonhentgescodar&locale=pt-br&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cleitonhentgescodar&radius=16&theme=github-dark&area=true&hide_border=false&hide_title=true" height="300"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/cleiton-hentges-a31218397/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
+</a>
+
+<a href="https://wa.me/5551996187765" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40"/>
+</a>
+
+<a href="mailto:cleitonhentgescodar@gmail.com">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
+</a>
+
+</div>
+
+---
+
+⭐ **Sempre aberto a oportunidades e colaborações em Ciência de Dados, Análise de Dados e Machine Learning.**
