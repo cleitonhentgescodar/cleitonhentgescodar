@@ -1,7 +1,7 @@
 <h1 align="center"> Bem-vindo ao meu GitHub</h1>
 
 <p align="center">
-Cientista de Dados | Analista de Dados & BI | Machine Learning | Estatística Aplicada |
+Cientista de Dados | Analista de Dados & BI | Machine Learning | Estatística Aplicada
 </p>
 
 ---
@@ -10,8 +10,8 @@ Cientista de Dados | Analista de Dados & BI | Machine Learning | Estatística Ap
 
 Sou **Cientista e Analista de Dados**, apaixonado por transformar dados em insights estratégicos e soluções orientadas por dados.
 
-🎓 Formação em **Ciência de Dados – EBAC (2024 – 2026)**  
-📊 Foco em **Análise de Dados, Machine Learning e Visualização de Dados**  
+🎓 Formação em **Ciência de Dados – EBAC (2024 – 2026)**
+📊 Foco em **Análise de Dados, Machine Learning e Visualização de Dados**
 🚀 Buscando constantemente evoluir em **Data Science e Analytics**
 
 ---
@@ -28,20 +28,41 @@ Sou **Cientista e Analista de Dados**, apaixonado por transformar dados em insig
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 <img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
+<img width="12"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Scipy_logo.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
+<img width="12"/>
+
+<!-- DAX e M (Power Query) -->
+
+<img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+<img width="12"/>
+<img src="https://img.icons8.com/color/48/microsoft-power-query.png" height="40"/>
 
 </div>
 
 **Principais ferramentas**
 
-- Python
-- SQL / MySQL
-- Pandas
-- Jupyter Notebook
-- Power BI
-- Machine Learning
-- Análise Estatística
-- Data Visualization
+* Python
+* SQL / MySQL / PostgreSQL
+* Pandas / NumPy / SciPy
+* Scikit-learn
+* R
+* DAX (Power BI)
+* M (Power Query)
+* Jupyter Notebook
+* Power BI
+* Machine Learning
+* Análise Estatística
+* Data Visualization
 
 ---
 
@@ -77,4 +98,4 @@ Sou **Cientista e Analista de Dados**, apaixonado por transformar dados em insig
 
 ---
 
-⭐ **Sempre aberto a oportunidades e colaborações em Ciência de Dados, Análise de Dados e Machine Learning.**
+⭐ **Sempre aberto a oportunidades e colaborações em Ciência de Dados, Análise de Dados, BI e Machine Learning.**
