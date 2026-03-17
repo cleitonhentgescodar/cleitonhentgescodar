@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bem-vindo ao meu GitHub</h1>
+<h1 align="center"> Bem-vindo ao meu GitHub</h1>
 
 <p align="center">
 Cientista de Dados | Analista de Dados & BI | Machine Learning | Estatística Aplicada
@@ -12,7 +12,7 @@ Sou **Cientista e Analista de Dados**, apaixonado por transformar dados em insig
 
 🎓 Formação em **Ciência de Dados – EBAC (2024 – 2026)**
 📊 Foco em **Análise de Dados, Machine Learning e Visualização de Dados**
-🚀 Em constante evolução em **Data Science e Analytics**
+🚀 Buscando constantemente evoluir em **Data Science e Analytics**
 
 ---
 
@@ -33,21 +33,31 @@ Sou **Cientista e Analista de Dados**, apaixonado por transformar dados em insig
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
 <img width="12"/>
 
+<!-- Scikit-learn -->
+
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" height="40"/>
 <img width="12"/>
+
+<!-- SciPy -->
+
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scipy.svg" height="40"/>
 <img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
 <img width="12"/>
 
+<!-- Power BI -->
+
 <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" height="40"/>
 <img width="12"/>
+
+<!-- Power Query -->
+
 <img src="https://raw.githubusercontent.com/microsoft/DataConnectors/master/samples/TripPin/TripPin/Resources/PowerQuery.png" height="40"/>
 
 </div>
 
-### 🧠 Principais competências
+**Principais ferramentas**
 
 * Python
 * SQL / MySQL / PostgreSQL
@@ -76,17 +86,6 @@ Sou **Cientista e Analista de Dados**, apaixonado por transformar dados em insig
 
 ---
 
-## 📌 Projetos em destaque
-
-🚧 Em breve você verá aqui projetos como:
-
-* 📊 Análise exploratória de dados (EDA)
-* 🤖 Modelos de Machine Learning
-* 📈 Dashboards interativos com Power BI
-* 🧠 Estudos de estatística aplicada
-
----
-
 ## 📫 Contato
 
 <div align="left">
@@ -107,4 +106,4 @@ Sou **Cientista e Analista de Dados**, apaixonado por transformar dados em insig
 
 ---
 
-⭐ **Sempre aberto a oportunidades, freelas e colaborações em Ciência de Dados, BI e Machine Learning.**
+⭐ **Sempre aberto a oportunidades e colaborações em Ciência de Dados, Análise de Dados, BI e Machine Learning.**
