@@ -33,27 +33,9 @@ Sou **Cientista e Analista de Dados**, apaixonado por transformar dados em insig
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
 <img width="12"/>
 
-<!-- Scikit-learn -->
-
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scikitlearn.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
 <img width="12"/>
 
-<!-- SciPy -->
-
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scipy.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
-<img width="12"/>
-
-<!-- Power BI -->
-
-<img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" height="40"/>
-<img width="12"/>
-
-<!-- Power Query -->
-
-<img src="https://raw.githubusercontent.com/microsoft/DataConnectors/master/samples/TripPin/TripPin/Resources/PowerQuery.png" height="40"/>
 
 </div>
 
@@ -63,9 +45,6 @@ Sou **Cientista e Analista de Dados**, apaixonado por transformar dados em insig
 * SQL / MySQL / PostgreSQL
 * Pandas / NumPy / SciPy
 * Scikit-learn
-* R
-* DAX (Power BI)
-* M (Power Query)
 * Jupyter Notebook
 * Power BI
 * Machine Learning
@@ -106,4 +85,4 @@ Sou **Cientista e Analista de Dados**, apaixonado por transformar dados em insig
 
 ---
 
-⭐ **Sempre aberto a oportunidades e colaborações em Ciência de Dados, Análise de Dados, BI e Machine Learning.**
+⭐ **Sempre aberto a oportunidades e colaborações em Ciência de Dados, Análise de Dados e Machine Learning.**
